@@ -91,11 +91,17 @@ sudo hping3 -S -p 80 --flood 127.0.0.1
 
 ***This project was developed for educational and cybersecurity research purposes.***
 
-<img width="1538" height="967" alt="image" src="https://github.com/user-attachments/assets/b2668f92-2951-4285-8a99-04b35411ce5f" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/6f110f8f-ff2d-4115-b80b-15872710eb4c" />
 
 <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/4177bbc7-5063-4c5c-bb81-8f13db8fdbfb" />
 
 <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/241348db-7a98-49e3-ae16-fc60c8ca8d67" />
+
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/b97ed62f-806d-475e-99b5-d34b6b6761d8" />
+
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/3d653992-c907-4513-9193-d83bcb366229" />
+
+
 
 ### 👨‍💻 Developer
 
